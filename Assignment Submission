@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tracy Patient Information System (TPIS)</title>
+  <meta name="description" content="Discover Tracy Patient Information System — a modern, accessible, and efficient tool for managing patient records in healthcare settings.">
+  <meta name="author" content="Your Name">
+</head>
+<body>
+
+  <header>
+    <h1>Tracy Patient Information System (TPIS)</h1>
+    <p>Empowering healthcare through modern, accessible patient data management</p>
+  </header>
+
+  <nav aria-label="Main Navigation">
+    <ul>
+      <li><a href="#about">About TPIS</a></li>
+      <li><a href="#features">Key Features</a></li>
+      <li><a href="#accessibility">Accessibility</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About Tracy Patient Information System</h2>
+      <p>TPIS is a web-based patient information system designed to simplify and secure the management of healthcare records. Built with modern web standards and a focus on usability, TPIS is ideal for clinics, hospitals, and health-tech innovators seeking scalable digital solutions.</p>
+    </section>
+
+    <section id="features">
+      <h2>Key Features</h2>
+
+      <article>
+        <h3>Secure Patient Registration</h3>
+        <p>Allows easy and secure registration of patient details, ensuring confidentiality and compliance with data protection standards.</p>
+      </article>
+
+      <article>
+        <h3>Role-Based Access</h3>
+        <p>Supports superadmin, admin, and clinical staff access levels to maintain control over sensitive patient information.</p>
+      </article>
+
+      <article>
+        <h3>Efficient Billing System</h3>
+        <p>Streamlines hospital billing processes with accurate patient-specific data integration and invoice tracking.</p>
+      </article>
+    </section>
+
+    <section id="accessibility">
+      <h2>Accessibility Commitment</h2>
+      <p>TPIS is developed with accessibility in mind. All core pages follow HTML5 semantic structures to support screen readers and assistive technologies. We aim to make healthcare digital tools usable by all, regardless of ability.</p>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <address>
+        TPIS Development Team<br>
+        Email: <a href="mailto:info@tpis.health">info@tpis.health</a><br>
+        Location: Nairobi, Kenya
+      </address>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Tracy Patient Information System. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
